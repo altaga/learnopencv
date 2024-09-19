@@ -1,5 +1,9 @@
-# Photoshop Filters in OpenCV
-This folder contains the code accompanying our blog post [Photoshop Filters in OpenCV](https://www.learnopencv.com/photoshop-filters-in-opencv)
+
+## Photoshop Filters in OpenCV
+
+**This repository contains the code for [Photoshop Filters in OpenCV](https://www.learnopencv.com/photoshop-filters-in-opencv) blogpost**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/iubbn29gv363dy7/AAAAWrwkHa6aLxrzSOR2soova?dl=1)
 
 ## Filters Available
 
@@ -37,6 +41,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

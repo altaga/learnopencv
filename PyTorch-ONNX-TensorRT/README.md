@@ -1,5 +1,8 @@
 # How to convert a model from PyTorch to TensorRT and speed up inference
-The blog post is here: https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/
+
+**This repository contains code for [How to convert a model from PyTorch to TensorRT and speed up inference](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) blogpost**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/mn3vommt37lngnf/AACwN2fUsPFM1XOGlZgWbqqPa?dl=1)
 
 To run PyTorch part:
 ```shell script
@@ -27,6 +30,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

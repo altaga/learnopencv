@@ -1,4 +1,8 @@
-The code belongs to the blog https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose
+# Multi Person Pose Estimation in OpenCV using OpenPose
+
+**This repository contains code for [Multi Person Pose Estimation in OpenCV using OpenPose](https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/wekj1ybydke70rw/AAAZDGuEqYuU_FC-26LkSQIfa?dl=1)
 
 A.Requirements : 
 1. OpenCV > 3.4.1
@@ -33,7 +37,7 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>
 

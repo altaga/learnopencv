@@ -1,5 +1,7 @@
 # Super Resolution in OpenCV
-This folder contains code for the blog post [Super Resolution in OpenCV](https://learnopencv.com/super-resolution-in-opencv/)
+**This repository contains code for [Super Resolution in OpenCV](https://learnopencv.com/super-resolution-in-opencv/) blogpost**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/na6ygbayem1iico/AAB3XpS9wfaJDMJIJMToqaKHa?dl=1)
 
 Please note that the code requires installation of OpenCV Contrib module along with the core modules.
 
@@ -38,6 +40,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center">
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

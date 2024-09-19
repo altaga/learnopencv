@@ -1,10 +1,12 @@
-This contains the code for **PyTorch to CoreML model conversion**. For more information - visit
-[**PyTorch to CoreML model conversion**](https://www.learnopencv.com/pytorch-to-coreml-model-conversion/)
+# PyTorch to CoreML model conversion
+
+**This repository contains the code for [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/flirha33aorrlrz/AADu-XLuR_BQFO5ZhgYNPaZIa?dl=1)
 
 ## Installation
 
-All required libraries collected in the requirements.txt file. To create a new virtual environment and install the
-requirements, you can use these commands:
+All required libraries collected in the requirements.txt file. To create a new virtual environment and install the requirements, you can use these commands:
 
 ```
 $ virtualenv -p python3.7 venv
@@ -28,6 +30,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

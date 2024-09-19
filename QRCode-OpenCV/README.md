@@ -1,7 +1,11 @@
 
-# OpenCV QR Code Scanner
+# OpenCV QR Code Scanner ( C++ and Python )
 
-This directory contains code for using OpenCV QR code. This code requires **OpenCV 3.4.4 or above** or later. 
+**This repository contains the code for [OpenCV QR Code Scanner ( C++ and Python )](https://learnopencv.com/opencv-qr-code-scanner-c-and-python/) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/195xuwdmt1nbpor/AAAucMK_7Khcch9U9HrLX3iqa?dl=1)
+
+This code requires **OpenCV 3.4.4 or above** or later. 
 
 # For C++
 
@@ -39,6 +43,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

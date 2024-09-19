@@ -1,4 +1,9 @@
-Please see the following [blog post](https://www.learnopencv.com/image-quality-assessment-brisque/) for more details about this code
+# Image Quality Assessment : BRISQUE
+The repository contains code for the blog post [Image Quality Assessment : BRISQUE](https://learnopencv.com/image-quality-assessment-brisque/).
+
+<img src="https://learnopencv.com/wp-content/uploads/2018/06/workflow-brisque-iqa.png" alt="BRISQUE" width="900">
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/scl/fo/n19a8fzvboq1nwhnbeh3y/h?dl=1&rlkey=za90lmxl5pq49i2qlyuv07t00)
 
 ## Installation Instructions
 **Python 2.x LIBSVM Installation**
@@ -42,6 +47,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

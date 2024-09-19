@@ -1,7 +1,10 @@
+# Shape Matching using Hu Moments (C++/Python)
 
-# Shape Matching using Hu Moments
+**This repository contains the code for [Shape Matching using Hu Moments (C++/Python)](https://learnopencv.com/shape-matching-using-hu-moments-c-python/) blog post**.
 
-This directory contains code for using Hu Moments to match shapes.
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/b6idgsj9uu078il/AAB-sNX6J0MBf0Wwizjo17VPa?dl=1)
+
+This directory also contains code for using Hu Moments to match shapes.
 
 # For C++
 
@@ -44,6 +47,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

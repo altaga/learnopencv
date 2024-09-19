@@ -1,5 +1,8 @@
-# Hangman-OpenCV
-This repository contains the code for Hangman game made using OpenCV library in Python.
+# Hangman: Creating games in OpenCV
+
+**This repository contains the code for [Hangman: Creating games in OpenCV](https://learnopencv.com/hangman-creating-games-in-opencv/) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/q5xa2wiv8a93aps/AADZyd3Wf11qzDMSCT03yjnPa?dl=1)
 
 ## Outline
 1. Use **pandas** library to process the **IMDb database**.
@@ -53,6 +56,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

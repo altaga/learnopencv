@@ -1,4 +1,8 @@
-Fast Image Downloader for Open Images V4
+# Fast Image Downloader for Open Images V4
+
+**This repository contains the code for [Fast Image Downloader for Open Images V4](https://learnopencv.com/fast-image-downloader-for-open-images-v4/) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/84co6f4d8sfia31/AACJ2td0E8hc40XIjTqg_Sgya?dl=1)
 
 1. Install awscli
 
@@ -25,6 +29,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

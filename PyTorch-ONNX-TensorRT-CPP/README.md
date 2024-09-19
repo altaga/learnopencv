@@ -1,5 +1,8 @@
 # How To Run Inference Using TensorRT C++ API
-The blog post is here: https://www.learnopencv.com/how-to-run-inference-using-tensorrt-c-api/
+
+**This repository contains code for [How To Run Inference Using TensorRT C++ API](https://learnopencv.com/how-to-run-inference-using-tensorrt-c-api/) blogpost**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/25lt4zpeww9mmbg/AAC4iNJsUSNoUa1JUprhIQTQa?dl=1)
 
 ### To run PyTorch part:
 ```shell script
@@ -29,6 +32,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>

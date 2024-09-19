@@ -1,10 +1,15 @@
-# RAFT: Optical Flow estimation using Deep Learning
-This folder contains code accompanying the blog post [RAFT: Optical Flow estimation using Deep Learning](https://learnopencv.com/optical-flow-using-deep-learning-raft) 
+
+## RAFT: Optical Flow Estimation Using Deep Learning
+
+**This repository contains code for [RAFT: Optical Flow estimation using Deep Learning](https://learnopencv.com/optical-flow-using-deep-learning-raft) blogpost**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/p5kzzonq1wongjd/AADHW2hGKtpL4PVjmPAc4vCTa?dl=1)
 
 ## Installation
 
-1. To run the demo, firstly you need to clone the [RAFT repo](https://github.com/princeton-vl/RAFT) being in our 
-   directory:
+### Running code locally
+
+1. To run the demo, firstly you need to clone the [RAFT repo](https://github.com/princeton-vl/RAFT) being in our directory:
 
    ```Shell
    git clone git@github.com:princeton-vl/RAFT.git
@@ -33,8 +38,7 @@ This folder contains code accompanying the blog post [RAFT: Optical Flow estimat
    pip install -r requirements.txt
    ```
 
-3. (Optional) There is a pretrained weights file that is already in our repo, but you can download all
-   authors' weights files using this command:
+3. (Optional) There is a pretrained weights file that is already in our repo, but you can download all authors' weights files using this command:
 
    ```
    ./RAFT/download_models.sh
@@ -50,9 +54,14 @@ This folder contains code accompanying the blog post [RAFT: Optical Flow estimat
    ```
    python3 inference.py --model=./models/raft-small.pth --video ./videos/crowd.mp4 --small
    ```
+
+### Running using Docker
+
+Follow the instructions [here](https://github.com/SarvagyaVaish/raft-example-in-docker) to quickly run the RAFT example code using a pre-configured Docker image.
+
 ## Troubleshooting
 
-If you have two GPUs and there is a UserWarning like:
+If you have two GPUs and there is a User Warning like:
 
 ```Shell
 UserWarning:
@@ -82,6 +91,6 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 <a href="https://opencv.org/courses/">
 <p align="center"> 
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
 </p>
 </a>
