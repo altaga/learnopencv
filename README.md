@@ -15,6 +15,27 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post | Code|
 | ------------- |:-------------|
+| [Agentic AI: A Comprehensive Introduction](https://learnopencv.com/agentic-ai/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Agentic-AI-A-Comprehensive-Introduction) |
+| [Finetuning SAM2 for Leaf Disease Segmentation](https://learnopencv.com/finetuning-sam2/) | [Code](https://github.com/spmallick/learnopencv/tree/master/finetuning-sam2) |
+| [Object Insertion in Gaussian Splatting: Paper Explained and Training Code for MCMC and Bilateral Grid](https://learnopencv.com/object-insertion-in-gaussian-splatting/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Object-Insertion-in-Gaussian-Splatting) |
+| [Depth Pro: Sharp Monocular Metric Depth](https://learnopencv.com/depth-pro-monocular-metric-depth) | [Code](https://github.com/spmallick/learnopencv/tree/master/DepthPro-Monocular-Metric-Depth) |
+| [Fine-tuning-Stable-Diffusion-3_5-UI-images](https://learnopencv.com/fine-tuning-stable-diffusion-3-5m/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Fine-tuning-Stable-Diffusion-3_5-UI-images) |
+| [SimSiam: Streamlining SSL with Stop-Gradient Mechanism](https://learnopencv.com/simsiam/) | [Code](https://github.com/spmallick/learnopencv/tree/master/SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism) |
+| [Image Captioning using ResNet and LSTM](https://learnopencv.com/image-captioning/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Image-Captioning-using-ResNet-and-LSTM) |
+| [Molmo VLM: Paper Explanation and Demo](https://learnopencv.com/molmo-vlm) | [Code](https://github.com/spmallick/learnopencv/tree/master/Molmo-VLM-SAM2) |
+| [3D Gaussian Splatting Paper Explanation: Training Custom Datasets with NeRF-Studio Gsplats](https://learnopencv.com/3d-gaussian-splatting/) | [Code](https://github.com/spmallick/learnopencv/tree/master/3D-Gaussian-Splatting-Code) |
+| [FLUX Image Generation: Experimenting with the Parameters](https://learnopencv.com/flux-ai-image-generator/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Flux-Image-Generation) |
+| [Contrastive-Learning-SimCLR-and-BYOL(With Code Example)](https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Contrastive-Learning-SimCLR-and-BYOL) |
+| [The Annotated NeRF : Training on Custom Dataset from Scratch in Pytorch](https://learnopencv.com/annotated-nerf-pytorch/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Annotated-NeRF) |
+| [Stable Diffusion 3 and 3.5: Paper Explanation and Inference](https://learnopencv.com/stable-diffusion-3/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Stable-Diffusion-3) |
+| [LightRAG - Legal Document Analysis](https://learnopencv.com/lightrag/) | [Code](https://github.com/spmallick/learnopencv/tree/master/LightRAG-Legal) |
+| [NVIDIA AI Summit 2024 – India Overview](https://learnopencv.com/nvidia-ai-summit-2024-india-overview/) | |
+| [Introduction to Speech to Speech: Most Efficient Form of NLP](https://learnopencv.com/speech-to-speech/) | [Code](https://github.com/spmallick/learnopencv/tree/master/speech-to-speech) |
+| [Training 3D U-Net for Brain Tumor Segmentation (BraTS-GLI)](https://learnopencv.com/3d-u-net-brats/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Training_3D_U-Net_Brain_Tumor_Seg) |
+| [DETR: Overview and Inference](https://learnopencv.com/detr-overview-and-inference/) | [Code](https://github.com/spmallick/learnopencv/tree/master/DETR-Overview_and_Inference) |
+| [YOLO11: Faster Than You Can Imagine!](https://learnopencv.com/yolo11/) | [Code](https://github.com/spmallick/learnopencv/tree/master/YOLO11) |
+| [Exploring DINO: Self-Supervised Transformers for Road Segmentation with ResNet50 and U-Net](https://learnopencv.com/fine-tune-dino-self-supervised-learning-segmentation/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Exploring-DINO-dino-road-segmentation) |
+| [Sapiens: Foundation for Human Vision Models by Meta](https://learnopencv.com/sapiens-human-vision-models) | [Code](https://github.com/spmallick/learnopencv/tree/master/Sapiens-Human-Vision-Model-Meta) |
 | [Multimodal RAG with ColPali and Gemini](https://learnopencv.com/multimodal-rag-with-colpali) | [Code](https://github.com/spmallick/learnopencv/tree/master/Multimodal-RAG-with-ColPali-Gemini) |
 | [Building Autonomous Vehicle in Carla: Path Following with PID Control & ROS 2](https://learnopencv.com/pid-controller-ros-2-carla/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2) |
 | [Handwritten Text Recognition using OCR](https://learnopencv.com/handwritten-text-recognition-using-ocr/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Handwritten_Text_Recognition_using_OCR) |
