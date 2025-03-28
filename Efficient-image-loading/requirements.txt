@@ -1,5 +1,5 @@
 lmdb==0.98
-numpy==1.18.3
+numpy==1.22.0
 opencv-python==4.2.0.34
 Pillow==8.1.1
 prettytable==0.7.2
